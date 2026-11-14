@@ -6,7 +6,7 @@ Saya adalah lulusan S1 Sistem Informasi dari Universitas Pamulang yang saat ini 
 
 ### 🔭 Apa yang sedang saya kerjakan & pelajari:
 - 💼 Saat ini bekerja sebagai **NOC Technician & Field Engineer** (Monitoring jaringan, OSPF, L2TP VPN, dan *troubleshooting* CPE/ONT).
-- 🔭 Mengembangkan simulasi *homelab* jaringan menggunakan **Cisco, GNS3**, dan memantau sistem dengan **Zabbix**.
+- 🔭 Mengembangkan simulasi *homelab* jaringan menggunakan **Cisco, GNS3**, dan memantau sistem dengan **The Dude** dan **Zabbix**.
 - 🌱 Saat ini sedang fokus belajar dan mendalami **Linux System Administration (Ubuntu Server)** dan **MikroTik Routing**.
 - 💻 Memiliki pengalaman *development* menggunakan **PHP (Laravel), MySQL**, dan **Python** untuk integrasi data (seperti API *real-time* USGS).
 - 📫 Hubungi saya di: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-alfath-mallorca)
