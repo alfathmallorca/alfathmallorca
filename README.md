@@ -42,6 +42,9 @@ Saya adalah lulusan S1 Sistem Informasi dari Universitas Pamulang yang saat ini 
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alfathmallorca&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=alfathmallorca&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathmallorca&theme=radical&hide_border=true&layout=compact" height="170" alt="Top Languages" />
 </p>
