@@ -44,5 +44,5 @@ Saya adalah lulusan S1 Sistem Informasi dari Universitas Pamulang yang saat ini 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alfathmallorca&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathmallorca&theme=radical&hide_border=true&layout=compact&v=1" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathmallorca&theme=radical&hide_border=true&layout=compact&v=1" width="49%"/>
 </p>
