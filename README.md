@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Nur Alfath Mallorca 👋
 
-**NOC Technician & Field Engineer | Jr. Network Engineer | Infrastructure Enthusiast**
+**NOC Technician | Jr. Network Engineer | Infrastructure Enthusiast**
 
 Saya adalah lulusan S1 Sistem Informasi dari Universitas Pamulang yang saat ini bekerja sebagai NOC Technician. Saya memiliki minat besar pada *Network Engineering*, *System Monitoring*, dan sedang aktif mengeksplorasi infrastruktur jaringan dan otomatisasi. 
 
